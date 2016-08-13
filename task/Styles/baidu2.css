@@ -1,0 +1,50 @@
+body{
+	font-family: "Microsoft Yahei";
+	font-size: 15px;
+	padding: 20px;
+}
+.all{
+	padding: 20px;
+	background-color: #eee;
+	border: 1px solid #999;
+	margin: 0 auto;
+	overflow: auto;
+	min-width: 600px;
+}
+.team{
+	border: 1px solid #999;
+	background-color: white;
+	padding: 20px;
+	width: 160px;
+    float: left;
+}
+.team img{
+	float: left;
+}
+.team p{
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	width: 180px;
+}
+.member{
+	border: 1px solid #999;
+	background-color: white;
+	padding: 20px;padding-bottom: 0px;
+	float: right;
+	width: 80px;
+}
+.member img{
+	margin-bottom: 20px;
+}
+article{
+	border: 1px solid #999;
+	background-color: white;
+	margin-left: 220px;
+	margin-right: 140px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+article p{
+	text-indent: 2em;
+}

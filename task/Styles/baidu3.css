@@ -1,0 +1,22 @@
+.grey{
+	width: 400px;
+	height: 200px;
+	background-color: #ccc;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+    margin: -100px 0 0 -200px;
+    overflow: hidden;
+}
+.yellow,.yellow1{
+	width: 0px;
+	height: 0px;
+	border: 50px solid #fc0;
+	border-radius: 50px;
+}
+.yellow{
+	margin: -50px 0 0 -50px;
+}
+.yellow1{
+	margin: 100px 0 0 350px;
+}
